@@ -162,8 +162,8 @@
         <div class="profile-pic">
           <img src="myphoto.jpg" alt="My Photo">
         </div>
-        <h1>Welcome Home 💜</h1>
-        <p>A calm and elegant purple theme with smooth, modern animations.</p>
+        <h1>Hi, I am Arkin!</h1>
+        <p>This is where you can find my socials.</p>
       </div>
 
       <div class="tab-content" id="socials">
@@ -197,3 +197,4 @@
   </script>
 </body>
 </html>
+
